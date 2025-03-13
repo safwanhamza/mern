@@ -8,7 +8,7 @@ The data processing pipeline for this project involves extracting data, transfor
 
 ## Architecture
 
-![1  Spotify Project Data Pipeline](https://github.com/safwanhamza/spotify-data-engineering/blob/main/assets/pipeline_architecture.jpeg)
+<img src="assets/pipeline_architecture.jpeg" alt="Pipeline Architecture" width="500">
 
 ## Tools Used
 
